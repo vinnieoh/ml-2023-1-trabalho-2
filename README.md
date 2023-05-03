@@ -1,7 +1,7 @@
 # Trabalho prático 2
 
 * Nome do Aluno: Vinicius de Oliveira
-* Número de Matrícula: ________
+* Número de Matrícula: 2018214639
 * Disciplina: Aprendizado de Máquina
 * Semestre: 2023/1
 * Data: 19/04/2023
